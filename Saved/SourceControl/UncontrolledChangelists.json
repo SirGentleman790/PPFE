@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/BP_Laser.uasset",
+				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/BP_Dalle.uasset",
+				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
