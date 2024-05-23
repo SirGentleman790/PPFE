@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/BP_Laser.uasset",
+				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/BP_Dalle.uasset",
+				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Baptiste T/Documents/GitHub/PPFE/Content/UI/WBP_SpeedBar.uasset",
+				"C:/Users/Baptiste T/Documents/GitHub/PPFE/Content/UI/WBP_InGame.uasset",
+				"C:/Users/Baptiste T/Documents/GitHub/PPFE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Baptiste T/Documents/GitHub/PPFE/Content/Obstacles/BP_Dalle.uasset",
+				"C:/Users/Baptiste T/Documents/GitHub/PPFE/Content/Obstacles/BP_Garde.uasset",
+				"C:/Users/Baptiste T/Documents/GitHub/PPFE/Content/Obstacles/BP_Laser.uasset",
+				"C:/Users/Baptiste T/Documents/GitHub/PPFE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AV/OU5GZSUNAD2OBW2MPPZTSJ.uasset",
+				"C:/Users/Baptiste T/Documents/GitHub/PPFE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QZ/SA86H4GAMCP9AM0WRPSMBL.uasset",
+				"C:/Users/Baptiste T/Documents/GitHub/PPFE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/T5/KKHC36J2LLFU537MHRIPK4.uasset",
 				"C:/Users/b.trouve/Documents/GitHub/PPFE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/b.trouve/Documents/GitHub/PPFE/Content/Obstacles/BP_Dalle.uasset",
 				"C:/Users/b.trouve/Documents/GitHub/PPFE/Content/Obstacles/BP_Laser.uasset",
@@ -89,11 +102,7 @@
 				"C:/Users/b.trouve/Documents/GitHub/PPFE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BB/P95SGOIK4WKY1HRQDMGHWH.uasset",
 				"C:/Users/b.trouve/Documents/GitHub/PPFE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/D9/0BFEYDMBWY68L0F1CJSH4X.uasset",
 				"C:/Users/b.trouve/Documents/GitHub/PPFE/Content/Obstacles/NewNiagaraSystem.uasset",
-				"C:/Users/b.trouve/Documents/GitHub/PPFE/Content/Level/NewMap.umap",
-				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/BP_Laser.uasset",
-				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/BP_Dalle.uasset",
-				"C:/Users/Baptiste T/Documents/Unreal Projects/PPFE_Stealth/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/b.trouve/Documents/GitHub/PPFE/Content/Level/NewMap.umap"
 			]
 		}
 	]
